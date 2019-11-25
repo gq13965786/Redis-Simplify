@@ -1,4 +1,4 @@
-https://blog.csdn.net/lishuhuakai/article/details/53321203
+分享来源:https://blog.csdn.net/lishuhuakai/article/details/53321203
 
 # Redis-Simplify
 对`Redis v3.0` 的代码做了简化,然后一步一步地往最初的代码里添加新的功能,当然,这一切都是为了方便理解源码而已,总体而言,`Redis`是很漂亮的`c`风格的代码,值得一读.
